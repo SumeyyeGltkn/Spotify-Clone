@@ -1,0 +1,48 @@
+export default [
+  {
+    id: 1,
+    title: "Cardio Music",
+    artist: "Sports",
+    desceription: "Sports",
+    image: "https://i.scdn.co/image/ab67706f00000002708c623e2e1df4607775381b",
+    type: "album",
+    src: " https://cdn.freesound.org/previews/671/671162_5674468-lq.mp3",
+  },
+  {
+    id: 2,
+    title: "This Is Madrigal",
+    artist: "Madrigal",
+    desceription:
+      "This is Madrigal. En önemli parçalar, hepsi tek bir çalma listesinde.",
+    image: "https://thisis-images.scdn.co/37i9dQZF1DZ06evO1eKl1u-default.jpg",
+    type: "album",
+    src: "https://cdn.freesound.org/previews/671/671009_5187472-lq.mp3     ",
+  },
+  {
+    id: 3,
+    title: "Hamilton",
+    artist: "Will You Back",
+    desceription: "Hamilton (Original Broadway Cast Recording)",
+    image: "https://i.scdn.co/image/ab67616d00001e02d72fb5571087bca0a2fed008",
+    type: "artist",
+    src: " https://cdn.freesound.org/previews/671/671162_5674468-lq.mp3",
+  },
+  {
+    id: 4,
+    title: "Soft Pop Hits",
+    artist: "The Weeknd",
+    desceription: "Warm familiar pop you know and love. Cover: John Legend",
+    image: "https://i.scdn.co/image/ab67706f0000000272b6003761b432c1c465a767",
+    type: "podcast",
+    src: "https://cdn.freesound.org/previews/671/671009_5187472-lq.mp3     ",
+  },
+  {
+    id: 5,
+    title: "BarryFalann",
+    artist: "Taylor Swift",
+    desceription: "Döne döne dinlediğin, son yılların hit yabancı şarkıları.",
+    image: "https://i.scdn.co/image/ab67616d0000b273ef80d083d28be95bc54f2408",
+    type: "album",
+    src: " https://cdn.freesound.org/previews/671/671162_5674468-lq.mp3",
+  },
+];
